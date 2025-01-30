@@ -9,6 +9,10 @@
 
 ---
 
+# Deployment on NETLIFY
+<img width="943" alt="image" src="https://github.com/user-attachments/assets/8073d681-d45d-4737-8131-1f77372b21e3" />
+
+
 ## Project setup
 ```
 npm install
