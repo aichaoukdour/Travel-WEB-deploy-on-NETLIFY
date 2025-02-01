@@ -1,5 +1,4 @@
-# travel-website
-
+# travel-website:
 Welcome to the Travel Website! This is a project for showcasing various travel destinations and tours. 
 
 ## Features
