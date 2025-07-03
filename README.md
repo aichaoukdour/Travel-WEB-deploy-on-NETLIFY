@@ -12,9 +12,9 @@ Welcome to the Travel Website! This is a project for showcasing various travel d
 - **Styling**: CSS (or other frameworks like Bootstrap, TailwindCSS)
 - **Deploymnt**: Netlify ([SITE](https://travel-time-ao.netlify.app/))
 ---
-<img width="930" alt="Screenshot 2025-01-30 134821" src="https://github.com/user-attachments/assets/1a1297b0-4353-4b95-9d9b-c66ece255f07" />
+<img width="901" alt="image" src="https://github.com/user-attachments/assets/a364d319-69b4-4835-83d4-ccf94cffc4a0" />
 <img width="935" alt="Screenshot 2025-01-30 134850" src="https://github.com/user-attachments/assets/58940490-5f93-4475-a44d-095a7b8dca44" />
- <img width="926" alt="Screenshot 2025-01-30 134914" src="https://github.com/user-attachments/assets/4d437cee-14d9-47b3-a586-8af26334c547" />
+<img width="926" alt="Screenshot 2025-01-30 134914" src="https://github.com/user-attachments/assets/4d437cee-14d9-47b3-a586-8af26334c547" />
 
 ---
 
